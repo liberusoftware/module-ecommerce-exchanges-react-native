@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-exchanges-react-native",
+  "capabilityKey": "planned:ecommerce:exchanges",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-exchanges-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/exchanges.md",
+  "presentationPlan": "projects/ecommerce/react-native/exchanges.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
